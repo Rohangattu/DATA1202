@@ -23,6 +23,13 @@ Preprocesses the data using standard scaling and one-hot encoding.
 Splits the dataset into training and testing sets.
 Utilizes various ensemble classifiers including RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier, and ExtraTreesClassifier for model training.
 
+Running the Tests
+Breakdown of Tests
+The code includes exploratory data analysis, data preprocessing, model training, and evaluation. Each section is tested individually to ensure correctness and reliability.
+
+Deployment
+This code can be deployed on any machine with Python installed. Additionally, the trained model can be deployed in production environments for real-time prediction.
+
 Instructions
 To run the code:
 Ensure you have Python 3 installed along with the necessary libraries specified in the requirements file.
