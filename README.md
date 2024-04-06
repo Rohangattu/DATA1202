@@ -45,3 +45,6 @@ Rohan Sharma Gattu
 If you have any questions or suggestions, feel free to contact rohan.gattu@dcmail.ca
 
 Link to my kaggle notebook  - https://www.kaggle.com/code/rohangattu/titanic-survival-prediction
+
+Acknowledgement
+Special thanks to Professor Omar Al Trad.
